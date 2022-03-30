@@ -1,0 +1,57 @@
+/* Write your CSS here */
+
+.Bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  height: 40vh;
+  width: 30vh;
+}
+
+.counter {
+  color: #ffd569;
+}
+
+.heading {
+  font-size: 40px;
+  text-align: center;
+}
+
+.mango-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.button {
+  align-items: center;
+  margin: 20px;
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  border-width: 0px;
+}
+
+.fruits-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
